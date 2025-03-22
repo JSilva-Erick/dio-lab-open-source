@@ -21,6 +21,10 @@ docs/
 └── README.md
 ```
 
+## Como Contribuir
+Para seguir os passos de como contribuirm leia o arquivo [CONTRIBUTING](https://github.com/JSilva-Erick/dio-lab-open-source/blob/main/CONTRIBUTING.md).
+
+
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
